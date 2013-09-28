@@ -3,6 +3,8 @@ Purpose: On button press, the speaker plays a song with accompanying flashes of
 an RGB LED.
 Created by: Aaron Hnatiw
 
+Video Demonstration: http://www.youtube.com/watch?v=Z9zU4vnjVNQ
+
 Credit: 
 - 2005 D. Cuartielles for K3. Thank you for the public use of your code,
 I could not have made this program without it.
